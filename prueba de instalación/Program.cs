@@ -5,3 +5,4 @@ Console.WriteLine("gerard es mi coordinador");
 Console.WriteLine("Juli un gran padawan tu eres...");
 
 
+
